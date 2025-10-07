@@ -4,52 +4,71 @@
   <a href="https://www.linkedin.com/in/anuhyadudi/">Business Intelligence Analyst</a>
 </h3>
 
+<!-- ---
+# Hi, I’m **Anuhya Dudi** 👋  
+**Data Analyst & Storyteller** | Transforming data into business insights and visual narratives
+-->
 ---
 
-🎓 I'm a graduate student in **Engineering Management** at *California State University, Northridge*, with a strong background in **Data Analytics, Software Engineering**, and **Project Management**.
-
-🔍 I bring a unique blend of technical and analytical skills, with experience in tools like **Python, SQL, Tableau, Power BI**, and methodologies like **Agile and Scrum**.  
-💡 My goal is to turn raw data into clear, actionable insights that help drive business success.
-
----
-
-### 🔧 What I Do
-
-- 🔍 **Data Analysis & Visualization** – Turning complex datasets into interactive dashboards and strategic insights.
-- 💻 **Software Development** – Experience working with Salesforce, test automation, and end-to-end project delivery.
-- 👥 **Team Collaboration & Teaching** – From managing sprints to helping students excel in their courses.
-
----
-
-### 📊 Featured Projects
-
-- **British Airways Sentiment Dashboard** – Uncovered customer insights using Tableau visualizations.
-- **HR Attrition Dashboard** – Analyzed trends and KPIs to improve retention strategies.
-- **Leaf Disease Detection (Deep Learning)** – Achieved 99.04% accuracy with Inception V3.
+### 🧭 About Me  
+- Currently doing **M.S. in Engineering Management - Data Analytics**  
+- Passionate about turning raw data into dashboards, models, and strategic decisions  
+- Background in engineering + analytics; love bridging business + tech  
+- Based in **Los Angeles, CA**  
+- Let’s connect: [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
 
 ---
 
-### 🎓 Education & Certifications
+### 🔍 What I Do  
+I dive into datasets—structured or unstructured—and build end-to-end analytics solutions that include:
 
-- **M.S. in Engineering Management** – *CSUN* (2025 expected)
-- **B.Tech in ECE** – *Geethanjali College of Engineering* (2022)
-- Certified in **Google Data Analytics**, **Tableau BI**, and **SQL for Data Analytics**
-
----
-
-## 👨‍💻 Data Analysis Projects
-
-- 📈 **[Friends TV Show Data Analysis](https://github.com/anuhyadudi/Friends-TV-Show-Data-Analysis/tree/Main)**
+- **Data Wrangling & ETL** (cleaning, transforming, feature engineering)  
+- **Exploratory Data Analysis & Statistics**  
+- **Sentiment / Text Analysis**  
+- **Machine Learning & Predictive Models**  
+- **Interactive Dashboards & Visualizations** (Tableau, Power BI, Matplotlib / Seaborn)  
+- **Cloud & Big Data Tools** (AWS, data warehousing, pipelines)
 
 ---
 
-## 🤳 Connect with Me
+### 💼 Notable Projects
 
-<p>
-  <a href="https://linkedin.com/in/anuhyadudi" target="_blank">
-    <img align="left" alt="Anuhya Dudi | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+| Project | What I Built | Tools / Highlights |
+|---|---|---|
+| **British Airways Review Dashboard** | Analyzed reviews & sentiment trends to reveal strengths & pain points | Tableau, Python, TextBlob, Sentiment Analysis |
+| **Friends TV Show Data Analysis** | Visualized ratings, emotions, trends over 10 seasons | Python, Tableau, Data Cleaning |
+| **Supply Chain Analytics / Risk** | Monitoring shipment, inventory, costs with visual dashboards | Python, Tableau, EDA |
+| **Employee Attrition Prediction** | Machine Learning models to forecast turnover | Python, scikit-learn, XGBoost |
+
+---
+<!--
+### 📊 GitHub Stats & Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuhyadudi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuhyadudi&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuhyadudi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+--- -->
+
+### 🧩 Skills & Tools
+
+- **Languages / Frameworks**: Python, SQL, R, Java  
+- **Visualization / BI**: Tableau, Power BI, Matplotlib, Seaborn  
+- **ML & Data Science**: scikit-learn, XGBoost, NLP  
+- **Data Engineering / Cloud**: AWS, ETL, pipelines, big data  
+- **Soft Skills**: Communication, cross-functional collaboration, problem solving
+
+---
+
+### ☁ Let’s Collaborate
+
+I’m always open to new projects, learning opportunities, or data collaborations.  
+📬 Feel free to drop me a message or connect.
+
+⭐ *“Every dataset hides a story; I help bring it to light.”*
 
 <br/><br/>
 
