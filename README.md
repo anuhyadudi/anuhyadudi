@@ -30,17 +30,6 @@ I dive into datasets—structured or unstructured—and build end-to-end analyti
 - **Cloud & Big Data Tools** (AWS, data warehousing, pipelines)
 
 ---
-
-### 💼 Notable Projects
-
-| Project | What I Built | Tools / Highlights |
-|---|---|---|
-| **British Airways Review Dashboard** | Analyzed reviews & sentiment trends to reveal strengths & pain points | Tableau, Python, TextBlob, Sentiment Analysis |
-| **Friends TV Show Data Analysis** | Visualized ratings, emotions, trends over 10 seasons | Python, Tableau, Data Cleaning |
-| **Supply Chain Analytics / Risk** | Monitoring shipment, inventory, costs with visual dashboards | Python, Tableau, EDA |
-| **Employee Attrition Prediction** | Machine Learning models to forecast turnover | Python, scikit-learn, XGBoost |
-
----
 <!--
 ### 📊 GitHub Stats & Languages  
 <p align="center">
