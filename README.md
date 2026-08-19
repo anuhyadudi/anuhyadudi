@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anuhya! 👋</h1>
 <h3 align="center">
   <a href="https://github.com/anuhyadudi">Data Analyst</a> | 
-  <a href="https://www.linkedin.com/in/anuhyadudi/">Business Intelligence Analyst</a>
+  <a href="https://www.linkedin.com/in/anuhyadudi/">Product Manager</a>
 </h3>
 
 <!-- ---
